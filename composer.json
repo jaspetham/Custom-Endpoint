@@ -1,0 +1,20 @@
+{
+    "name" : "jasper-tham/custom_plugin",
+    "description": "",
+    "keywords":[
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/jaspetham/Custom-Endpoint",
+    "authors":[
+        {
+            "name": "Custom Endpoint",
+            "homepage":"shopreview.online"
+        }
+    ],
+    "type":"wordpress-plugin",
+    "require":{
+        "php": ">5.6"
+    }
+
+}
