@@ -1,7 +1,7 @@
 # Custom-Endpoint
 I will be explaining about the Task requirement first. Followby, the composer support.
 
-##Code Requirement
+## Code Requirement
 1. custom-endpoint.php 
 * For the first requirement, i have added the add_action('rest_api_init') function with the function of wl_users.
 * In the Wl_users function, i first save the jsonplaceholder url to an variable with the arguement to GET. i will be only needing the body which is the data and save it under a variable.
