@@ -1,5 +1,6 @@
 # Custom-Endpoint
 I will be explaining about the Task requirement first. Followby, the composer support.
+The Custom endpoint of the user data url : /wp-json/myplugin/v1/users
 
 ## Code Requirement
 ### 1. custom-endpoint.php 
