@@ -21,4 +21,4 @@ I will be explaining about the Task requirement first. Followby, the composer su
 As required, i have added a composer support by adding a composer.json.
 
 ## Automated Testing (incomplete)
-I have install the brain monkey and phpunit and tried to do my own testing but it is incomplete
+I have install the brain monkey and phpunit and tried to do my own testing but it is incomplete and have tons of errors.
