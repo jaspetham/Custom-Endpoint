@@ -9,7 +9,7 @@
     "authors":[
         {
             "name": "Custom Endpoint",
-            "homepage":"shopreview.online"
+            "homepage":"https://shopreview.online"
         }
     ],
     "type":"wordpress-plugin",
